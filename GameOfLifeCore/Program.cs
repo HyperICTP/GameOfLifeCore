@@ -7,7 +7,7 @@ namespace GameOfLifeCore
         static void Main(string[] args)
         {
             Console.WriteLine("Hello HyperScalers, This is running on OpenShift!");
-            Console.WriteLine( "^_^" );
+            Console.WriteLine( "( ^_^ )" );
         }
     }
 }
